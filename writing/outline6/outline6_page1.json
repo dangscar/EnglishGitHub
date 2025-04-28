@@ -1,0 +1,42 @@
+{
+    "status": 200,
+    "page": 1,
+    "total_page": 2,
+    "result": {
+        "title": "AAA or BBB (Pre: in, on, at, about + Ving/N)",
+        "content": {
+            "line1": "In the modern these days, many people say that SVO. In my opinion, I strongly agree/disagree with this idea because of some following reasons.",
+            "line2": "It is very clear that there are plenty of advantages of ABC in our life. First of all, one of the most important advantages to discuss in this essay is that SVO. In addition, another important advantage to make this matter clear is that SVO. To show an example, …. In short, they are all meaningful advantages which are very easy to see.",
+            "line3": "On the other hand, besides a lot of advantages of ABC as above, we can not deny some disadvantages in our life. To begin with, one of the most typical disadvantages is that SVO. Moreover, another typical disadvantages to make clear is that SVO. In summary, there are all main disadvantages of this problem which we should consider consideration carefully.",
+            "line4": "To sum up, from what we have discussed above, I completely agree/disagree with the idea that…In my opinion, we should consider this problem carefully before we make the final decision."
+        },
+        "minWord": 250
+    },
+    "data": [
+        {
+            "id": "1W6",
+            "title": "Outline6: Some people say that “it is never too late to learn”. Do you agree or disagree",
+            "description": {
+                "content_first": {
+                    "category": "Agree",
+                    "content_category": {
+                        "describe_first": "iit helps us widen our knowledge, we can learn about many things such as cultures, traditions, history and so on. It will be very useful in the future",
+                        "solution_first": "",
+                        "describe_second": "it helps us improve many useful skill such as life skills, teamwork skills, soft skills and so on. It is very wonderful and interesting",
+                        "solution_second": ""
+                    } 
+                },
+                "content_second": {
+                    "category": "Disagree",
+                    "content_category": {
+                        "describe_first": "it will affect our health, it makes me tired and bored, so we can study and work badly",
+                        "solution_first": "",
+                        "describe_second": "it makes us take a lot of time to relax, reduce stressed, and improve emotion, we will not refresh our mind, so we will not work effectively. It is not good for everyone.",
+                        "solution_second": ""
+                    } 
+                }
+                
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "status": 200,
+    "page": 2,
+    "total_page": 2,
+    "result": {
+        "title": "AAA or BBB (Pre: in, on, at, about + Ving/N)",
+        "content": {
+            "line1": "In modern life these days, many people are keen on AAA while other people are interested in BBB. In my opinion, I will choose AAA because of the following reasons. ",
+            "line2": "It is very clear that there are plenty of advantages of AAA in our life. First of all, one of the most important advantages to discuss in this essay is that + SVO-main idea 1. khúc này giải thích. In addition, another important advantage to make this matter clear is that + SVO-main idea 2.. To show an example, khúc này giải thích.... In short, they are all meaningful advantages which are very easy to see.",
+            "line3": "On the other hand, besides a lot of advantages of AAA as above, we can not deny some advantages of BBB in our life. To begin with, one of the most typical advantages is that + SVO main idea 1. khúc này giải thích. Moreover, another typical disadvantage to make clear this matter is that + SVO main idea 2. khúc này giải thích. In summary, there are all main disadvantages of this problem which we should consider take into consideration carefully.",
+            "line4": "To sum up, from what we have discussed above, although AAA brings us a lot of advantages, many people still prefer BBB. In my opinion, we should consider this problem carefully before we make the final decision."
+        },
+        "minWord": 250
+    },
+    "data": []
+}
