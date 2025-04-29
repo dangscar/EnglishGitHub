@@ -2,16 +2,6 @@
     "status": 200,
     "page": 1,
     "total_page": 2,
-    "result": {
-        "title": "AAA or BBB (Pre: in, on, at, about + Ving/N)",
-        "content": {
-            "line1": "In modern life these days, many people are keen on AAA while other people are interested in BBB. In my opinion, I will choose AAA because of the following reasons. ",
-            "line2": "It is very clear that there are plenty of advantages of AAA in our life. First of all, one of the most important advantages to discuss in this essay is that + SVO-main idea 1. khúc này giải thích. In addition, another important advantage to make this matter clear is that + SVO-main idea 2.. To show an example, khúc này giải thích.... In short, they are all meaningful advantages which are very easy to see.",
-            "line3": "On the other hand, besides a lot of advantages of AAA as above, we can not deny some advantages of BBB in our life. To begin with, one of the most typical advantages is that + SVO main idea 1. khúc này giải thích. Moreover, another typical disadvantage to make clear this matter is that + SVO main idea 2. khúc này giải thích. In summary, there are all main disadvantages of this problem which we should consider take into consideration carefully.",
-            "line4": "To sum up, from what we have discussed above, although AAA brings us a lot of advantages, many people still prefer BBB. In my opinion, we should consider this problem carefully before we make the final decision."
-        },
-        "minWord": 250
-    },
     "data": [
         {
             "id": "1W5",
@@ -24,7 +14,7 @@
                         "solution_first": "",
                         "describe_second": ".... Họ sẽ có advantages. For example, khi chơi bóng chuyên (volleyball or basketball), một vận động viên cao hơn (a taller athlete) sẽ có nhiều lợi thế hơn những vận động viên khác. Họ có thể jump taller other people, their team can win easier.. ",
                         "solution_second": ""
-                    } 
+                    }
                 },
                 "content_second": {
                     "category": "Working hard: ",
@@ -33,9 +23,8 @@
                         "solution_first": "",
                         "describe_second": "tập luyện chăm chỉ giúp học có nhiều kinh nghiệm....khi họ luyện tập thường xuyên, họ có thể làm việc nhóm tốt hơn. Bên cạnh đó, họ có thể hạn chế đc những chấn thương (injuries).....avoid many accidents in the competition, know the good points or bad points.(→ Study in groups: học nhóm => work in groups: làm việc nhóm )",
                         "solution_second": ""
-                    } 
+                    }
                 }
-                
             }
         },
         {
@@ -49,7 +38,7 @@
                         "solution_first": "",
                         "describe_second": "it is very easy for us to move to another city... Khi chúng ta di chuyển đến 1 thành phố khác để làm việc or học tập, chúng ta có thể tìm 1 căn nhà mới dễ dàng....",
                         "solution_second": ""
-                    } 
+                    }
                 },
                 "content_second": {
                     "category": "Benefits of buying a house",
@@ -58,9 +47,8 @@
                         "solution_first": "",
                         "describe_second": "Ving => Sit: owning a house is very comfortable. Chúng ta sẽ có không gian riêng, chúng ta có thể cảm thấy tự do để làm nhiêu thứ mà chúng ta thích, nó thì rất là tuyệt vời",
                         "solution_second": ""
-                    } 
+                    }
                 }
-                
             }
         }
     ]
